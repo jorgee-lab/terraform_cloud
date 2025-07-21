@@ -51,3 +51,7 @@ variable "access_key" {
 variable "secret_key" {
   
 }
+
+variable "session_token" {
+  
+}
