@@ -1,0 +1,14 @@
+# Archivos de Terraform que no se deben subir
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+*.backup
+*.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraform.lock.hcl
+*.pem
+*.ppk
