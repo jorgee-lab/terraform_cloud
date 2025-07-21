@@ -53,5 +53,4 @@ variable "ingress_port_list" {
 # }
 
 # variable "session_token" {
-  
 # }
