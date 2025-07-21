@@ -44,14 +44,14 @@ variable "ingress_port_list" {
   description = "Lista de puertos ingress"
 }
 
-variable "access_key" {
+# variable "access_key" {
 
-}
+# }
 
-variable "secret_key" {
+# variable "secret_key" {
   
-}
+# }
 
-variable "session_token" {
+# variable "session_token" {
   
-}
+# }
